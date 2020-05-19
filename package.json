@@ -1,0 +1,23 @@
+{
+  "name": "node-proxy",
+  "version": "1.0.0",
+  "description": "Simple web proxy written in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daltonmblack/node-proxy.git"
+  },
+  "author": "Dalton Black",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daltonmblack/node-proxy/issues"
+  },
+  "homepage": "https://github.com/daltonmblack/node-proxy#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2"
+  }
+}
